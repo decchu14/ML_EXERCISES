@@ -1,0 +1,4 @@
+NumPy Documentation : https://numpy.org/doc/
+NumPy Notebook : https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-numpy.ipynb 
+SD and Variance : https://www.mathsisfun.com/data/standard-deviation.html
+Matrix Multiplication : https://www.mathsisfun.com/data/standard-deviation.html
