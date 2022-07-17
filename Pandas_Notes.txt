@@ -1,0 +1,5 @@
+DOCUMENTATION : https://pandas.pydata.org/pandas-docs/stable/
+NOTES 1       : https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas-video.ipynb
+NOTES 2       : https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb
+10 MIN PANDA  : https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#min
+Data Manipulation with Pandas : https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html
