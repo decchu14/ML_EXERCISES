@@ -1,2 +1,2 @@
 # ML_EXERCISES
-This repository contains exercises of Machine Learning
+This repository contains exercises of Machine.
